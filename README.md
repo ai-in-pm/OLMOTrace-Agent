@@ -2,6 +2,9 @@
 
 This repository contains an interactive demonstration of OLMOTRACE, a system that traces language model outputs back to their training data in real-time.
 
+![OMOTRACE Interface](https://github.com/user-attachments/assets/10aa712e-38b6-4a97-81df-6f4bcf75b128)
+![OMOTRACE Interface II](https://github.com/user-attachments/assets/a43c7464-2ec0-49e3-b5a5-827a70b45cb6)
+
 ## About OLMOTRACE
 
 OLMOTRACE is the first system that traces the outputs of language models back to their full, multi-trillion-token training data in real time. It finds and shows verbatim matches between segments of language model output and documents in the training text corpora.
