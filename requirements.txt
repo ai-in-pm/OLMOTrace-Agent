@@ -1,4 +1,4 @@
-streamlit==1.32.0
+streamlit==1.37.0
 pymupdf==1.25.5
 docx2txt==0.8
 pandas==2.1.4
