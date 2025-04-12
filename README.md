@@ -1,6 +1,8 @@
 # OLMOTRACE Interactive Demo
 
-This repository contains an interactive demonstration of OLMOTRACE, a system that traces language model outputs back to their training data in real-time.
+This repository contains an interactive demonstration of OLMOTRACE, a system that traces large language model outputs back to their training data in real-time.
+
+The development of this repository was inspired by the paper "OLMOTRACE: Tracing Language Model Outputs Back to Trillions of Training Tokens". To read the full article, visit https://arxiv.org/pdf/2504.07096.
 
 ![OMOTRACE Interface](https://github.com/user-attachments/assets/10aa712e-38b6-4a97-81df-6f4bcf75b128)
 ![OMOTRACE Interface II](https://github.com/user-attachments/assets/a43c7464-2ec0-49e3-b5a5-827a70b45cb6)
